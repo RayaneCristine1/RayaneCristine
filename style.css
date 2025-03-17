@@ -4,11 +4,12 @@
     display: flex;
     padding: 24px 0;
 }
-
-.section1 {
+.section1 {.section1 {
     background-color: cornflowerblue;
-}
+padding: 100px;}
+
 
 .section2 {
     background-color: darkblue;
+padding: 100px;
 }
